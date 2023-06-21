@@ -1,0 +1,41 @@
+body
+     {
+      background :linear-gradient(90deg,rgb(135,11,169),rgb(40,255,147));
+     }
+h1
+    {
+      text-align: center; 
+     
+    }
+div{
+        background-color:white;
+        height: 300px;
+        width: 300px;
+        margin: 10px;
+        text-align: center;
+        margin-left: 45%;
+
+    
+    }
+    .icon{
+        margin-top: 100px;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    i{
+        font-size: 60px;
+        margin-top: 40px;
+    }
+    button
+    {
+        background-color: black;
+        color: white;
+    }
+    img{
+        height: 80px;
+        width: 80px;
+        margin-top: 20px;
+    }
+    
+    
+   

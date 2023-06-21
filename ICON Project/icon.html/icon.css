@@ -1,0 +1,31 @@
+body
+     {
+      background-color: aqua; 
+     }
+h1
+    {
+      text-align: center;   
+    }
+div{
+        background-color:aliceblue;
+        height: 290px;
+        width: 290px;
+        margin: 10px;
+        text-align: center;
+    
+    }
+    .icon{
+        margin-top: 80px;
+        margin-left: 20px;
+        margin-right: 50px;
+    }
+    i{
+        font-size: 60px;
+    }
+    hr
+    {
+        background-color: black;
+        height:2px;
+        width: 120px;
+    }
+        
