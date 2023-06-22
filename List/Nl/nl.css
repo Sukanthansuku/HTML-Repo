@@ -1,0 +1,33 @@
+body{
+    background-color:coral;
+
+}
+.list1{
+    list-style-type:upper-roman;
+}
+.list2{
+    list-style-type: upper-alpha;
+}
+.list3{
+    list-style-type: upper-alpha;
+} 
+.list4{
+    list-style-type: lower-roman;
+}
+.list5{
+    list-style-type: lower-roman;
+}
+.list6{
+    list-style-type: upper-alpha;
+}
+.list7{
+    list-style-type: lower-roman;
+}
+.list8{
+    list-style-type: upper-alpha;
+}
+.list9{
+    list-style-type: upper-alpha;
+}
+
+
