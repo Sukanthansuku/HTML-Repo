@@ -1,0 +1,74 @@
+body {
+    background-color:rgb(208, 43, 226);
+    padding-bottom: -400px;
+    
+}
+div {
+    text-align: center;
+    height: 850px;
+    width: 450px;
+    margin-bottom: 150px;
+    margin-left: 150px;
+    background-color: white;
+}
+#kris{
+
+    text-align: center;
+    color:rgb(208, 43, 226) ;
+    height: 400px;
+    width: 250px;
+    float: left;
+    border-color:rgb(208, 43, 226) ;
+    
+}
+#marlo{
+    text-align: center;
+    color:rgb(208, 43, 226) ;
+    height: 400px;
+    width: 250px;
+    float: left;
+    
+}
+#david{
+    text-align: center;
+    color:rgb(208, 43, 226) ;
+    height: 400px;
+    width: 250px;
+    float: left;
+    border-color:rgb(208, 43, 226) ;
+  
+}
+h1{
+    text-align: center;
+    color: white;
+
+}
+#id Subscribe{
+    padding-left: 80px;
+    background-color: blueviolet;
+
+}
+button {
+    color: white;
+    background-color:rgb(208, 43, 226);
+    border-color: rgb(208, 43, 226);
+}
+#readmore {
+    color: rgb(208, 43, 226);
+    background-color: white;
+}
+h3{
+    text-align: center;
+}
+p {
+    color: black;
+}
+
+img {
+    border-radius: 50%;
+    border:3px solid rgb(208, 43, 226) ;
+}
+
+
+
+    

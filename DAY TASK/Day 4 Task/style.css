@@ -1,0 +1,53 @@
+body{
+    background-color: darkgray;
+    background-image: url(https://4.bp.blogspot.com/-YsCCSteXjnA/UliByVK0LzI/AAAAAAAAGi0/S7Zxo_9FZ0o/s1600/Front+pages+of+Indian+newspapers+the+day+after+Sachin+Tendulkar+announced+his+retirement.jpg);
+}
+div{
+    height: 600px;
+    width: 400px;
+    background-color:rgb(236, 232, 232);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    
+   
+    
+}
+img{
+    margin-right: 50px;
+    height: 250px;
+    width: 400px;  
+    
+}
+h2{
+    margin-left: 20px;
+}
+input{
+    margin-left: 20px;
+    height: 20px;
+    width: 240px;
+}
+button{
+    margin-left: 10px;
+    color: white;
+    background-color:black;
+    height: 30px;
+    border-radius: 10px;
+    margin: bottom 15px;;
+}
+ul{
+    list-style: none;
+
+}
+h1{
+    font-size: small;
+    font-color:darkgray;
+    text-shadow: darkgray;
+    padding-left: 10px;
+}
+    
+h3{
+
+    margin-top: 15px;
+    margin-left: 15px;
+}

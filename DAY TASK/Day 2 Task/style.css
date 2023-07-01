@@ -1,0 +1,71 @@
+body{
+    background-color:grey;
+    font-size: 20px;
+
+}
+div {
+    text-align: center;
+    background-color: white;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    height: 480px;
+    width:480px;
+    
+}
+input{
+    margin: left 50px;
+    height:25px;
+    width:320px;
+}
+#twitter_button
+{
+    background-color: darkgrey;
+    margin-left:0px;
+    height: 35px;
+    width:35px;
+    border-radius:50%;
+}
+
+#facebook_button
+{
+    background-color: darkgrey;
+    margin-left:10px;
+    height: 35px;
+    width:35px;
+    border-radius:50%;
+}
+#linkedin_button
+{
+    background-color:darkgrey;
+    margin-left:10px;
+    height: 35px;
+    width: 35px;
+    border-radius: 40px;
+    border-radius:50%;
+
+}
+#login_button
+{
+
+    background-color: rgb(49, 132, 149);
+    margin-top:0px;
+    margin-left: -5px;
+    height: 30px;
+    width:320px;
+    border-radius: 20px;
+    border:1px solid rgb(49, 132, 149);
+    
+
+}
+.fa-xmark
+{
+
+margin-top:30px;
+margin-left:350px;
+font-size: 28px;
+}
+p{
+    margin-left: 10px;
+}
