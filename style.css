@@ -1,95 +1,184 @@
 body{
-    background-color:#DB0A5B;
-}
-div{
-    background-color: black;
-    color: white;
-    transform: rotate(-20deg);
-    font-weight: bold;
-    position:relative ;
-    left: 400px;
-    top: 150px;
-    height: 380px;
-    width: 240px;
-    border-radius: 5%;
-    text-align: center;
-    box-shadow: 0px 0px 10px black;
-
-}
-.white{
-    background-color: white;
-    color: black;
-    transform: rotate(8deg);
-    position:relative ;
-    font-weight: bold;
-    left: 620px;
-    top:-260px;
-    height: 350px;
-    width: 260px;
-    border-radius: 5%;
-    float: left;
-    box-shadow: 0px 0px 10px black;
-}
-.whitee{
-    background-color:white;
-    position:relative ;
-    color: black;
-    font-weight: bold;
-    transform: rotate(8deg);
-    left:350px ;
-    top:-190px ;
-    height: 350px;
-    width: 260px;
-    border-radius: 5%;
-    float: left;
-    box-shadow: 0px 0px 10px black;
-}
-
-.card {
-    position: relative;
-    top: 210px; 
-    left: 30px;
-
-}
-.blacksheet{
-    font-size: larger;
-    font-weight: bold;
-    position: relative;
-    left: 5px;
-    top: 30px;
+    background:linear-gradient( to right top, #D2B8AA 5%, #7D4E54 95%);
+    width: 100vw;
+    height: 100vh;    
 }
 .one{
-    font-size:25px;
+    background-color: aliceblue;
+    height: 500px;
+    width: 350px;
     position: relative;
-    top: 250px;
-    right: 80px;
+    top:100px;
+    left:80px;
+    font-weight: bolder;
+    font-size: larger;
 }
-.again{
-        font-size:17px;
-        font-weight:bolder;
-        position: relative;
-        top: 190px; 
-        left: 20px;
+.firstimg{
+    height: 115px;
+    width:350px;
+}
+.lagerthaimg{
+    height:100px;
+    width:100px;
+    border-radius: 50px;
+    position: relative;
+    top:-20px;
+    left:115px;
 }
 .two{
-    font-size:25px;
+    background-color: rgb(252, 254, 252);
+    height: 500px;
+    width: 350px;
+    transform: perspective(1000px) rotateY(45deg);
     position: relative;
-    top: 229px;
-    right: 104px;
-}
-.whiteesheet{
+    left:250px;
+    top:-400px;
+    font-weight: bolder;
     font-size: larger;
-    font-weight: bold;
-    position: relative;
-    left: -80px;
-    top: 20px;
-   
 }
-.whitesheet{
-    font-size: larger;
-    font-weight: bold;
+.secondimg{
+    height: 115px;
+    width:350px;
+}
+.lagerthaimg2{
+    height: 100px;
+    width:100px;
+    border-radius: 50px;
     position: relative;
-    left: -80px;
-    top: 10px;
+    top:-50px;
+    left:120px;
+}
+.three{
+    background-color: aliceblue;
+    height:500px;
+    width:10px;
+    position: relative;
+    left:550px;
+    top:-900px;
+    font-weight: bolder;
+    font-size: larger;
+}
+.paraone{
+    text-align: center;
+    font-style: normal;
+    font-size: medium;
+    color: gray;
+    font-weight: bolder;
     
+    
+}
+.paratwo{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+}
+.parathree{
+    text-align: center;
+    padding-left: 50px;
+    font-size: 15px;
+    font-weight: bolder;
+
+}
+.parafour{
+    font-size: 18px;
+    position: relative;
+    top:100px;
+    left:50px;
+
+}
+.parafive{
+    font-size: 18px;
+    position: relative;
+    top:100px;
+    left:100px;
+}
+.parasix{
+    font-size: 18px;
+    position: relative;
+    top:100px;
+    left:250px;
+}
+.paraseven{
+    font-weight: bolder;
+    font-size: larger;
+}
+.paraeight{
+    font-weight: bolder;
+    font-size: larger;
+}
+.paranine{
+    font-weight: bolder;
+    font-size: larger;
+}
+.four{
+    background-color: aliceblue;
+    height: 500px;
+    width: 350px;
+    transform: perspective(1000px) rotateY(-45deg);
+    position: relative;
+    top:-1410px;
+    left:520px;
+    font-weight: bolder;
+    font-size: larger;
+
+    transform:skewZ(-20deg)
+}
+.five{
+    background-color: rgb(246, 247, 246);
+    height: 500px;
+    width: 350px;
+    position: relative;
+    top:-1925px;
+    left:700px;
+    font-weight: bolder;
+    font-size: larger;
+    transform:skewZ(-20deg);
+    z-index: -1;
+}
+h1 {
+    text-align: center;
+}
+.manager {
+    text-align: center;
+    font-style: normal;
+    font-size: medium;
+    color: gray;
+}
+.sintara {
+    text-align: center;
+    padding-left: 50px;
+}
+.auto  {
+    text-align:center;
+    padding-right: 80px;
+    padding-bottom: 120px;
+    font-style: normal;
+    font-size: medium;
+    color: gray;
+}
+.fa-share
+{
+    float: left;
+    padding-right: -150px;
+    padding-left:120px;
+    color: gray;
+}
+.fa-facebook-f {
+    margin-left: 80px;
+    padding-right: 50px;
+    font-size: larger;
+}
+.fa-google-plus-g{
+    padding-right: 50px;
+    font-size: larger;
+
+}
+.fa-twitter {
+    padding-right: 50px;
+    font-size: larger;
+}
+table{
+    text-align: center;
+    margin-left: 60px;  
+    margin-bottom: 200px;  
 }
