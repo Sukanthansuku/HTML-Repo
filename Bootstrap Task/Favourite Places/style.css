@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://loveincorporated.blob.core.windows.net/contentimages/gallery/95e0431c-b232-4481-a5ac-f6d09fd31c57-Manali-structuresxx.jpg");
+    background-size: cover;
+}
+
+@media screen and (max-width: 500px){
+    .taj_Mahal{
+        margin-top: 20px;
+        height: 300px;
+    }
+    .golden-temple{
+        margin-top: 20px;
+        height: 300px;
+    }
+    .mysore_place{
+        margin-top: 60px;
+        padding: 10px;
+        height: 300px;
+    }
+}

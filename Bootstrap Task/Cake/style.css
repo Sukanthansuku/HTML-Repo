@@ -1,0 +1,86 @@
+body {
+    background-color:white;
+    height: 300px;
+
+}
+div {
+    background-color: #C81686;
+    height: 350px;
+    width: 1300px;
+    color: white;
+    display: flex;
+
+}
+.large1{
+    text-align: center;
+    margin-left: 5px;
+    float: left;
+    font-size: large;
+    font-weight: bolder;
+    position: relative;
+    top:10px;
+    left:-250px;
+   
+}
+.large2 {
+    text-align: center;
+    margin-left: 10px;
+    float: left;
+    font-size: large;
+    font-weight: bolder;
+    position: relative;
+}
+.large3 {
+    text-align: center;
+    float:left ;
+    font-size: large;
+    font-weight:bolder ;
+    position: relative;
+}
+p{
+    text-align: center;
+    padding-top: 150px;
+    padding-right:80px;
+}
+
+.hazel {
+    margin-left: 20px;
+    font-size:25px;
+    position: relative;
+    top:140px;
+    left:-120px;
+}
+.tier {
+    font-size:25px;
+    position: relative;
+    top:140px;
+    left:-120px;
+}
+.coconut{
+    font-size:25px;
+    position: relative;
+    top:140px;
+    left:-120px;
+}
+.apple{
+    font-size:25px;
+    position: relative;
+    top:140px;
+    left:-120px;
+}
+.imgOne{
+    height: 150px;
+    width: 750px;
+}
+.imgTwo{
+    height: 150px;
+    width: 750px;
+}
+.imgThree{
+    height: 150px;
+    width: 750px;
+}
+.imgFour{
+    height: 150px;
+    width: 750px;
+}

@@ -1,0 +1,42 @@
+.goa-more1-img{
+    height: 80px;
+    width: 150px;
+    margin: 10px;
+}
+.goa-more2-img{
+    height: 80px;
+    width: 150px;
+    margin: 10px;
+}
+.goa-mor3-img{
+    height: 80px;
+    width: 150px;
+    margin: 10px;
+}
+.youTube_1{
+    height: 80px;
+    width: 150px;
+    margin: 10px;
+}
+@media screen and (max-width: 992px) 
+  
+   .goa-more1-img{
+    height:80px;
+    width:150px;
+    margin:10px;
+    }
+    .goa-more2-img{
+        height: 80px;
+        width: 150px;
+        margin: 10px;
+    }
+    .goa-mor3-img{
+        height: 80px;
+        width: 150px;
+        margin: 10px;
+    }
+    .youTube_1{
+        height: 80px;
+        width: 100px;
+        margin: 10px;
+    }

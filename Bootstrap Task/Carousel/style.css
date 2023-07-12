@@ -1,0 +1,9 @@
+.d-block{
+    height: 400px;
+    object-fit: cover;
+}
+.button{
+    border-radius:50%;
+    height: 10px!important;
+    width: 10px !important;
+}

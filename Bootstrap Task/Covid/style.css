@@ -1,0 +1,56 @@
+.medicalCare{
+    margin-top: -80px;
+}
+.coronaVirus{
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.doctor-Img{
+    padding-left: 30px;
+    padding-top: 30px;
+    height: 100px;
+     
+}
+.doctorImg{
+    background-color: #e12d3919; 
+}
+.head-text{
+    font-size: 28px;
+}
+.cough-Img{
+    margin-left: 50px;
+    background-color: #3ebd93;
+}
+.high-Fever{
+    margin-left: 50px;
+    background-color: #e668a7;
+}
+.headAche{
+    margin-left: 50px;
+    background-color: #a368fc;
+}
+
+@media screen and (max-width: 800px) {
+    .head-text{
+        font-size: 20px;
+    }
+    .headofContant{
+        width: 160px;
+    }
+    .medicalCare{
+        margin-top: -120px;
+    }
+    .cough-Img{
+        margin: 8px;
+        font-size: 14px;
+    }
+    .high-Fever{
+        margin: 10px;
+        font-size: 14px;
+    }
+    .headAche{
+        margin: 10px;
+        font-size: 14px;
+    }
+    
+}
